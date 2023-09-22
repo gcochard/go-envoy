@@ -7,7 +7,7 @@ This is a golang Enphase Envoy client for communicating with the Envoy communica
 ## Example
 
 ```go
-import "github.com/nik-johnson-net/go-envoy"
+import "github.com/gcochard/go-envoy"
 
 client := envoy.NewClient("192.168.0.201")
 
